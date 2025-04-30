@@ -1,1 +1,1 @@
-# Lyrics-Genre-Classifier
+# Lyric-Genre-Classifier
